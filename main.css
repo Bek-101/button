@@ -12,8 +12,28 @@ height: 100vh;
  align-items: center;
  justify-items: center;
 }
-.btn {
+.yelloww {
  width: 200px;
  height: 40px;
+ background: yellow;
+ border: none;
+ border-radius: 14px;
 
+}
+
+
+.greenn {
+ width: 200px;
+ height: 40px;
+ background: green;
+ border: none;
+ border-radius: 14px;
+
+}.blackk {
+ width: 200px;
+ height: 40px;
+ background: black;
+ border: none;
+ border-radius: 14px;
+color: aliceblue;
 }
